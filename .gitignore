@@ -1,0 +1,4 @@
+coverage
+.vscode
+.nyc_output
+server/node_modules
